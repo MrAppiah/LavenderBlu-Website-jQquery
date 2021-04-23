@@ -223,7 +223,7 @@ input[type="submit"] {
 
 .img-ofsted {
 	position: absolute;
-	margin-top: 570px;
+	margin-top: 565px;
 	height: 50px;
 	margin-left: 850px;
 }
@@ -233,7 +233,7 @@ input[type="submit"] {
 .main-nav {
 	float: right;
 	list-style: none;
-	margin-top: 55px;
+	margin-top: 85px;
 }
 
 .main-nav li {
